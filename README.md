@@ -13,6 +13,7 @@ FN Super Jumper is incredibly easy to setup. All you have to do is follow these 
 The controls are simple and easy-to-use (for PC at least)
 
 KEYBOARD - Hold down ALT to charge and release
+
 CONTROLLER - Hold down your right D-Pad button to charge and release
 
 # Why are the controls goofy for controller?
