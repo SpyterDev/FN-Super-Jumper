@@ -142,7 +142,7 @@ void update_Visibility(void) {
 }
 
 int main() {
-    InitWindow(0, 0, "Super Jump"); // Creates window
+    InitWindow(0, 0, "FN Super Jumper"); // Creates window
     SetWindowSize(GetMonitorWidth(0) / 4, GetMonitorHeight(0) / 10);
     SetWindowPosition(0, -GetScreenHeight() - 1); // Hides window
     SetWindowState(FLAG_WINDOW_TOPMOST | FLAG_WINDOW_UNDECORATED);
