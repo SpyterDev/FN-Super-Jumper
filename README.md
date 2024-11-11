@@ -20,7 +20,7 @@ KEYBOARD - Hold down ALT to charge and release
 CONTROLLER - Hold down your right D-Pad button to charge and release
 
 # Why are the controls goofy for controller?
-Well controllers don't have as much buttons as keyboard so I had to choose a button not used anywhere else or could be avoided. The east D-Pad button fit the bill perfectly, also changing controls on controller isn't as good as keyboard :/
+Well controllers don't have as much buttons as keyboard so I had to choose a button not used anywhere else or could be avoided. The right D-Pad button fit the bill perfectly, also changing controls on controller isn't as good as keyboard :/
 
 # How it works?
 FN Super Jump is pretty basic, it is basically just an auto-clicker you charge (for F1). In the low-rider hydraulics in FN, if there is rapid input, the car registers it as a jump, but if you press it fast multiple times, you are barely off the ground and more velocity is added. If you do this quick enough and enough times you go sky high.
