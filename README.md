@@ -1,3 +1,5 @@
+## THIS PROGRAM NO LONGER WORKS DUE TO FORTNITE PATCHING THE CAR GLITCH
+
 ### IMPORTANT NOTE
 FN Super Jumper doesn't modify or change any of Fortnite's game files, all it does is just simulate key presses like an autoclicker to trigger the Super Jump car glitch! You shouldn't get banned for using this because it is no different from just using your scroll wheel for the Super Jump glitch. Even though I am 99.999999% sure you won't get banned (I use this program on my main Fornite account), it depends whether Epic wants to ban people using this glitch which is incredibly unlikely (because it is so widespread). In the one in a million chance you get banned, I am not responsible, so use this as your own risk I guess. Also Epic Games will likely patch is glitch sooner or later so enjoy it while you can!
 
